@@ -31,7 +31,7 @@ function test01() {
   // Array of strings (using the [] syntax)
   let d;
 
-  // Object with properties 'id' and 'name' and value of type string
+  // Object with properties 'id' that is of type number and 'name' that is a value of type string
   let e;
 
   // string OR number
